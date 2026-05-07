@@ -1,0 +1,4 @@
+Word: human | Result: Lost
+Word: human | Result: Lost
+Word: dumplings | Result: Lost
+Word: centipide Result: won
